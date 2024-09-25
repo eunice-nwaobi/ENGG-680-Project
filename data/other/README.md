@@ -1,2 +1,2 @@
 # All Other Data
-## This folder stores all other informative daata on our set.
+## This folder stores all other informative data on our set.
